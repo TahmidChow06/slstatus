@@ -7,7 +7,7 @@ This is my fork of (Slstatus)[https://tools.suckless.org/slstatus].
 I am using [jonaburg-picom](https://github.com/jonaburg/picom) here.
 
 ## Installation
-````
+```
 git clone https://github.com/TahmidChow06/slstatus ~/.config/slstatus
 sudo make install
 ```
